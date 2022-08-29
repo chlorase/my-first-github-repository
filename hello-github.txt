@@ -8,4 +8,4 @@ Third test edit in feature-1 after renamegit
 
 Fourth edit in feature-1-ben
 
-Test conflicting directly added via github, fifth edit in feature-1-ben
+Test fifth edit in feature-1-ben + Test fifth edit in feature-1-ben 
