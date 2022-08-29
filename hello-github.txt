@@ -9,3 +9,5 @@ Third test edit in feature-1 after renamegit
 Fourth edit in feature-1-ben
 
 Test fifth edit in feature-1-ben + Test fifth edit in feature-1-ben 
+
+Test sixth edit in feature-1-ben, pushed to remote repo temp too.
