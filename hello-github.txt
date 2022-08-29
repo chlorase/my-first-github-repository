@@ -4,3 +4,4 @@ Test edit made in feature-1
 est edit made in main
 
 Second test edit made in feature-1!!
+Third test edit in feature-1 after rename
